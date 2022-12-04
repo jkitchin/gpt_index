@@ -6,6 +6,7 @@ pytest-dotenv
 
 # third-party (libraries)
 rake_nltk
+pymongo
 
 # math
 matplotlib
